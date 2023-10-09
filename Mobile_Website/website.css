@@ -225,12 +225,10 @@ h2{
     .top_bar{
       height: 50px;
       width:100%;
-      align-items: center;
     }
     .page_title{
       font-size: 0.9rem;
       text-align: end;
-      justify-content: center;
       width: 60%;
       align-items: flex-end;
     }
@@ -239,7 +237,7 @@ h2{
     }
     .page_name{
       font-size: 0.7rem;
-      align-items: center;
+
       display: flex;
       flex-direction: column;
       width: 70rem;
@@ -270,7 +268,6 @@ h2{
     .top_movies,
     .comment{
       flex-direction: column;
-      flex-wrap: wrap;
       align-items: center;
       margin: 1rem 0;
     }
