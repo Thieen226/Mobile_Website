@@ -236,8 +236,7 @@ h2{
       width: 50%;
     }
     .page_name{
-      font-size: 0.7rem;
-
+      font-size: 0.7rem;  
       display: flex;
       flex-direction: column;
       width: 70rem;
